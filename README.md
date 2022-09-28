@@ -10,6 +10,7 @@ You want to first make a list of all the unique pairwise combinations. This mean
 For a set of 5 individuals A-E the number of pairwise combinations is AB,AC,AD,AE, BC,BD,BE, CD,CE. If we consider a pairing of the same organism as a control we need to add in
 AA, BB, CC, DD, EE. So the total count is 14.
 
+```
 ---------------------
 | AB | AC | AD | AE |
 | ------------------|
@@ -19,7 +20,7 @@ AA, BB, CC, DD, EE. So the total count is 14.
 |-------------------|
 | DD | EE |    |    |
 |-------------------|
-
+```
 1. Write a program to generate the set of all pairwise combinations given a single input list of individuals.
 2. Print out this list in a grid. Make the number of columns that are printed a variable. You can keep it simple and just print out a comma delimited. for example if the number of columns is 3 this will suffice.
 If you have your program produce this result, make sure the name of the file is ".csv" and save it into your github for the project it will show up as a nicely formatted table on the web.
