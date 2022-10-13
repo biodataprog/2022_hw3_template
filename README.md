@@ -1,3 +1,4 @@
+The homework template in [github classroom](https://classroom.github.com/a/J8gwkyZo)
 
 Lists, combinations, and permutations
 
@@ -22,6 +23,7 @@ AA, BB, CC, DD, EE. So the total count is 14.
 |-------------------|
 ```
 1. Write a program to generate the set of all pairwise combinations given a single input list of individuals.
+
 2. Print out this list in a grid. Make the number of columns that are printed a variable. You can keep it simple and just print out a comma delimited. for example if the number of columns is 3 this will suffice.
 If you have your program produce this result, make sure the name of the file is ".csv" and save it into your github for the project it will show up as a nicely formatted table on the web.
 ```
@@ -32,3 +34,5 @@ Row2,AD,AE,BC
 ````
 
 3. Write a second program or option to your program that randomizes the list so the output order of the sample pairs is shuffled
+
+![Seed Trays](https://ag.umass.edu/sites/ag.umass.edu/files/fact-sheets/images/openseedtrays.jpg)
